@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ctrPrediction/mlruns/0/9ed3ac65bc944c9b981b9ccbda3f5472/artifacts
+end_time: 1754437986447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ed3ac65bc944c9b981b9ccbda3f5472
+run_name: evaluate_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754437986265
+status: 3
+tags: []
+user_id: ashar

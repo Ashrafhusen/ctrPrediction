@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ctrPrediction/mlruns/0/e251f414c6d249a7a2a6fa06a023e6e8/artifacts
+end_time: 1754446480298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e251f414c6d249a7a2a6fa06a023e6e8
+run_name: rumbling-trout-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754446460892
+status: 3
+tags: []
+user_id: ashar

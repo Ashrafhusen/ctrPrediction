@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ctrPrediction/mlruns/0/26b06ffdd5c14feebab4856e10aec60c/artifacts
+end_time: 1754426186286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26b06ffdd5c14feebab4856e10aec60c
+run_name: redolent-fly-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754426186169
+status: 4
+tags: []
+user_id: ashar

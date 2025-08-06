@@ -1,0 +1,21 @@
+artifact_path: file:///D:/ctrPrediction/mlruns/0/models/m-25fa54348c0c4e5ba8a766668af95cf5/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.10.0
+mlflow_version: 3.2.0
+model_id: m-25fa54348c0c4e5ba8a766668af95cf5
+model_size_bytes: 1741736
+model_uuid: m-25fa54348c0c4e5ba8a766668af95cf5
+prompts: null
+run_id: 7e0604329efb4c8f8d25e0d37d89fb3d
+utc_time_created: '2025-08-06 02:36:14.678881'

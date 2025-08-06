@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ctrPrediction/mlruns/0/8e1da7736c044235858effa8e7e4f857/artifacts
+end_time: 1754426074424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e1da7736c044235858effa8e7e4f857
+run_name: mysterious-robin-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754426074231
+status: 4
+tags: []
+user_id: ashar

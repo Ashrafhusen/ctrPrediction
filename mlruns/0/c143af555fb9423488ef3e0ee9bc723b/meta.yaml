@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ctrPrediction/mlruns/0/c143af555fb9423488ef3e0ee9bc723b/artifacts
+end_time: 1754426328345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c143af555fb9423488ef3e0ee9bc723b
+run_name: burly-goat-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754426302154
+status: 3
+tags: []
+user_id: ashar

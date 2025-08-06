@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ctrPrediction/mlruns/0/models/m-0445a0e5ad1e4ecc901ce99e792e2c11/artifacts
+creation_timestamp: 1754426310145
+experiment_id: '0'
+last_updated_timestamp: 1754426328311
+model_id: m-0445a0e5ad1e4ecc901ce99e792e2c11
+model_type: null
+name: model
+source_run_id: c143af555fb9423488ef3e0ee9bc723b
+status: 2
+status_message: null
